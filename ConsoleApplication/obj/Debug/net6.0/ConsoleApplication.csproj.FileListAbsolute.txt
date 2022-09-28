@@ -1,0 +1,15 @@
+/Users/vika/Projects/Homework/ConsoleApplication/bin/Debug/net6.0/ConsoleApplication
+/Users/vika/Projects/Homework/ConsoleApplication/bin/Debug/net6.0/ConsoleApplication.deps.json
+/Users/vika/Projects/Homework/ConsoleApplication/bin/Debug/net6.0/ConsoleApplication.runtimeconfig.json
+/Users/vika/Projects/Homework/ConsoleApplication/bin/Debug/net6.0/ConsoleApplication.dll
+/Users/vika/Projects/Homework/ConsoleApplication/bin/Debug/net6.0/ref/ConsoleApplication.dll
+/Users/vika/Projects/Homework/ConsoleApplication/bin/Debug/net6.0/ConsoleApplication.pdb
+/Users/vika/Projects/Homework/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.csproj.AssemblyReference.cache
+/Users/vika/Projects/Homework/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vika/Projects/Homework/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.AssemblyInfoInputs.cache
+/Users/vika/Projects/Homework/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.AssemblyInfo.cs
+/Users/vika/Projects/Homework/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/vika/Projects/Homework/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.dll
+/Users/vika/Projects/Homework/ConsoleApplication/obj/Debug/net6.0/ref/ConsoleApplication.dll
+/Users/vika/Projects/Homework/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.pdb
+/Users/vika/Projects/Homework/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/Users/vika/Projects/Homework/MacApp/bin/Debug/MacApp.exe
+/Users/vika/Projects/Homework/MacApp/bin/Debug/MacApp.pdb
+/Users/vika/Projects/Homework/MacApp/obj/Debug/actool/_PartialAppManifest.items
+/Users/vika/Projects/Homework/MacApp/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/vika/Projects/Homework/MacApp/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/vika/Projects/Homework/MacApp/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/vika/Projects/Homework/MacApp/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/vika/Projects/Homework/MacApp/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/vika/Projects/Homework/MacApp/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/vika/Projects/Homework/MacApp/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/vika/Projects/Homework/MacApp/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/vika/Projects/Homework/MacApp/obj/Debug/_ProcessedContentPath.items
+/Users/vika/Projects/Homework/MacApp/obj/Debug/MacApp.csproj.AssemblyReference.cache
+/Users/vika/Projects/Homework/MacApp/obj/Debug/MacApp.csproj.CoreCompileInputs.cache
+/Users/vika/Projects/Homework/MacApp/obj/Debug/MacApp.exe
+/Users/vika/Projects/Homework/MacApp/obj/Debug/MacApp.pdb

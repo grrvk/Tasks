@@ -1,0 +1,16 @@
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/actool/_PartialAppManifest.items
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/_ProcessedContentPath.items
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/MacFormsApplication.csproj.CoreCompileInputs.cache
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/MacFormsApplication.csproj.AssemblyReference.cache
+/Users/vika/Projects/Homework/MacAppF/bin/Debug/MacFormsApplication.exe
+/Users/vika/Projects/Homework/MacAppF/bin/Debug/MacFormsApplication.pdb
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/MacFormsApplication.exe
+/Users/vika/Projects/Homework/MacAppF/obj/Debug/MacFormsApplication.pdb

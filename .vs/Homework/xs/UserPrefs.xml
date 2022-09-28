@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5479B16E-5D7B-428E-AA25-6EC388DBEB73}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MacAppF/ViewController.designer.cs">
+    <Files>
+      <File FileName="MacAppF/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="MacAppF/ViewController.cs" Line="38" Column="34" />
+      <File FileName="MacAppF/ViewController.designer.cs" Line="38" Column="1" />
+      <File FileName="ConsoleApplication/Program.cs" Line="9" Column="49" />
+      <File FileName="MacAppF/Main.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework" expanded="True" selected="True">
+            <Node name="MacFormsApplication" expanded="True">
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MacFormsApplication PreferredExecutionTarget="MyMacID" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyMacID" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
