@@ -30,14 +30,29 @@ namespace MacAppF
 
         partial void ButtonAction(NSObject sender)
         {
-			var number = TextOutlet.IntValue;
-            var alert = new NSAlert()
+            try
             {
-                AlertStyle = NSAlertStyle.Informational,
-                InformativeText = $"Ви ввели число {number}",
-				MessageText = "Повідомлення",
-            };
-            alert.RunModal();
+                var num = TextOutlet.StringValue;
+                int number = Convert.ToInt32(num);
+                var alert = new NSAlert()
+                {
+                    AlertStyle = NSAlertStyle.Informational,
+                    InformativeText = $"Ви ввели число {number}",
+                    MessageText = "Повідомлення",
+                };
+                alert.RunModal();
+            }
+            catch (FormatException)
+            {
+                var alert = new NSAlert()
+                {
+                    AlertStyle = NSAlertStyle.Informational,
+                    InformativeText = $"Помилка введення - неправильний формат",
+                    MessageText = "Повідомлення",
+                };
+                alert.RunModal();
+            }
+            
         }
     }
 }
